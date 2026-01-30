@@ -2,7 +2,3 @@
 
 i am adding this file
 
-
-
-
-fixed bug
