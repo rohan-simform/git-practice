@@ -2,3 +2,32 @@
 
 i am adding this file
 
+* 7e26f43 (origin/master, master) F
+| * 2544be5 (HEAD -> next) E
+| * 10e7758 D
+|/  
+* 9ca2cf1 C
+* 120dad6 B
+* ee72f95 A
+* c14aae3 reset
+**************************************************
+
+* 4c5c3d4 (next) E
+* f2e1a6e D
+* 7e26f43 (HEAD -> master, origin/master) F
+* 9ca2cf1 C
+* 120dad6 B
+* ee72f95 A
+* c14aae3 reset
+
+**************************************************
+
+* 5c0d7bd (HEAD -> master) G
+| * 4c5c3d4 (next) E
+| * f2e1a6e D
+|/  
+* 7e26f43 (origin/master) F
+* 9ca2cf1 C
+* 120dad6 B
+* ee72f95 A
+* c14aae3 reset

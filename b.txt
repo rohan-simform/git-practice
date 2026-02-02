@@ -1,0 +1,28 @@
+* 4c5c3d4 (HEAD -> next) E
+* f2e1a6e D
+* 7e26f43 (origin/master, master) F
+* 9ca2cf1 C
+* 120dad6 B
+* ee72f95 A
+* c14aae3 reset
+
+**************************************************
+
+* 4c5c3d4 (HEAD -> master, next) E
+* f2e1a6e D
+* 7e26f43 (origin/master) F
+* 9ca2cf1 C
+* 120dad6 B
+* ee72f95 A
+* c14aae3 reset
+
+**************************************************
+
+* 6481cd8 (HEAD -> master) G
+* 4c5c3d4 (next) E
+* f2e1a6e D
+* 7e26f43 (origin/master) F
+* 9ca2cf1 C
+* 120dad6 B
+* ee72f95 A
+* c14aae3 reset
